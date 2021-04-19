@@ -4,7 +4,7 @@ En este repositorio encontrará una instalación nueva de Laravel 8 donde deber�
 
 ## Sistema de votaciones
 
-La prueba consiste en crear un sistema de votaciones donde en una pantalla se pueda formular una pregunta y n opciones de respuesta y guardarlas y listarlas para posteriormente poder votar sobre cada pregunta registrando el voto y mostrando los resultados de cada respuesta
+La prueba consiste en crear un sistema de votaciones donde en una pantalla se pueda formular una pregunta y n opciones de respuesta, guardarlas y listarlas para posteriormente poder votar sobre cada pregunta registrando el voto y mostrando los resultados de cada respuesta
 
 - Debe usar una base de datos SQLite para el registro de las preguntas y respuestas.
 - La interfaz gráfica debe ser los más amigable posible
