@@ -11,7 +11,7 @@ Debes desarrollar un **sistema de votaciones** para un conjunto residencial. El 
 
 **Requerimientos principales:**
 
-- El sistema debe estar desarrollado en **Laravel 11**.
+- El sistema debe estar desarrollado en **Laravel 11**. y **vue.js**
 - Debe haber una sección para **registrar propietarios** (usuarios).
 - Debe existir una sección para **crear preguntas** (por ejemplo, “¿Qué proyecto debemos priorizar este año?”) y definir **N opciones de respuesta** para cada pregunta.
 - Los propietarios registrados deben poder **votar** en cada pregunta, eligiendo una de las opciones disponibles.
