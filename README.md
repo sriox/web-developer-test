@@ -1,18 +1,44 @@
-# Prueba técnica para ingeniero de desarrollo Web PHP + Laravel
+### Prueba técnica para Desarrollador Web PHP + Laravel (Nivel Mid-Senior)
 
-En esta prueba se espera evidenciar la calidad del código fuente, la recursividad, uso de herramientas o frameworks, entendimiento del requerimiento, usabilidad y uso de git.
+**Objetivo:**  
+Queremos evaluar tus habilidades técnicas y tu enfoque para resolver problemas reales de desarrollo web. Esta prueba está diseñada para que demuestres la calidad de tu código, tu capacidad para usar herramientas modernas, tu comprensión de los requerimientos, la usabilidad de tus soluciones y tu manejo de Git.
 
-## Sistema de votaciones
+---
 
-La prueba consiste en crear un sistema de votaciones en laravel 8 donde en una pantalla se pueda formular una pregunta y n opciones de respuesta, guardarlas y listarlas para posteriormente poder votar sobre cada pregunta registrando el voto y mostrando los resultados de cada respuesta
+#### Descripción del reto
 
-Debe usar una base de datos SQLite o MySql para el registro de las preguntas y respuestas.
-La interfaz gráfica debe ser lo más amigable posible y presentar la información tan completa y detallada como considere posible.
+Debes desarrollar un **sistema de votaciones** para un conjunto residencial. El objetivo es que los propietarios de los apartamentos puedan votar sobre diferentes proyectos o decisiones importantes de la copropiedad.
 
-Utilice cualquier libreria, framework o paquete que considere necesario
+**Requerimientos principales:**
 
-Para la entrega de la prueba, suba el código de la aplicación a un repositorio en github publico y comparta el link por correo electrónico al evaluador
+- El sistema debe estar desarrollado en **Laravel 11**.
+- Debe haber una sección para **registrar propietarios** (usuarios).
+- Debe existir una sección para **crear preguntas** (por ejemplo, “¿Qué proyecto debemos priorizar este año?”) y definir **N opciones de respuesta** para cada pregunta.
+- Los propietarios registrados deben poder **votar** en cada pregunta, eligiendo una de las opciones disponibles.
+- El sistema debe **registrar cada voto** y mostrar los **resultados** de cada pregunta (cuántos votos tiene cada opción).
+- Utiliza una base de datos **SQLite o MySQL** para almacenar preguntas, opciones, usuarios y votos.
+- La **interfaz gráfica** debe ser clara, amigable y mostrar la información de manera completa y detallada.
+- Puedes usar cualquier librería, framework o paquete adicional que consideres útil. Si usas **Vue.js** para la interfaz, sumarás puntos extra.
 
-## Notas
+---
 
-Recuerde que no hay una unica forma de hacerlo (Cualquiera puede estar bien), es muy importante para nosotros los criterios que aplique al momento de desarrollar la prueba, diseño, codificación, herramientas usadas, complejidad.
+#### Entrega
+
+- Sube el código de tu aplicación a un **repositorio público en GitHub**.
+- Envía el enlace del repositorio por correo electrónico a: **sergio.rios@intuscolombia.com**
+
+---
+
+#### Notas importantes
+
+- No existe una única forma correcta de resolver la prueba. Valoramos mucho los criterios que apliques en el desarrollo: tu diseño, la calidad del código, las herramientas que elijas y el nivel de complejidad que logres.
+- Queremos ver cómo piensas y cómo abordas un reto real, así que siéntete libre de proponer mejoras o agregar funcionalidades que consideres útiles.
+
+---
+
+**Recuerda:**  
+El objetivo es que demuestres tu experiencia y buenas prácticas en desarrollo web, así como tu capacidad para entregar una solución funcional, bien estructurada y fácil de usar.
+
+---
+
+¿Te gustaría que adapte el texto para un formato de correo o documento oficial? ¿O necesitas agregar algún detalle extra sobre los criterios de evaluación?
