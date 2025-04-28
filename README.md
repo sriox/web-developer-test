@@ -38,7 +38,3 @@ Debes desarrollar un **sistema de votaciones** para un conjunto residencial. El 
 
 **Recuerda:**  
 El objetivo es que demuestres tu experiencia y buenas prácticas en desarrollo web, así como tu capacidad para entregar una solución funcional, bien estructurada y fácil de usar.
-
----
-
-¿Te gustaría que adapte el texto para un formato de correo o documento oficial? ¿O necesitas agregar algún detalle extra sobre los criterios de evaluación?
