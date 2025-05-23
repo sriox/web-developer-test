@@ -25,6 +25,7 @@ Debes desarrollar un **sistema de votaciones** para un conjunto residencial. El 
 #### Entrega
 
 - Sube el código de tu aplicación a un **repositorio público en GitHub**.
+- Recuerda incluir los datos que van en el archivo .env
 - Envía el enlace del repositorio por correo electrónico a: **sergio.rios@intuscolombia.com**
 
 ---
